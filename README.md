@@ -1,2 +1,3 @@
 # hello-world
-Just a normal repository
+
+Hi I am Amersfoort. I am here to learn new thing.
